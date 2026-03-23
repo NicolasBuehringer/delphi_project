@@ -32,8 +32,8 @@ Project Delphi is an end-to-end Machine Learning data product that forecasts the
 ## Dashboard Preview
 
 <p align="center">
-  <img src="assets/forecast_1.pngforecast.png" alt="Forecast Output" width="500"/>
-  <img src="assets/twitter_insights.png.pngforecast.png" alt="Forecast Output" width="500"/>
+  <img src="assets/forecast_1.png" alt="Forecast Output" width="500"/>
+  <img src="assets/twitter_insights.png" alt="Forecast Output" width="500"/>
 </p>
 
 ## Installation and Setup
