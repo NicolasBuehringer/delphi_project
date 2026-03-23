@@ -1,7 +1,7 @@
 # Project Delphi: German Federal Election Forecast
 
 <p align="center">
-  <img src="delphi_project_logo_dark.png" alt="Project Delphi Logo" width="300"/>
+  <img src="assets/delphi_project_logo_dark.png" alt="Project Delphi Logo" width="300"/>
 </p>
 
 ## Overview
@@ -32,7 +32,8 @@ Project Delphi is an end-to-end Machine Learning data product that forecasts the
 ## Dashboard Preview
 
 <p align="center">
-  <img src="forecast.png" alt="Forecast Output" width="500"/>
+  <img src="assets/forecast_1.pngforecast.png" alt="Forecast Output" width="500"/>
+  <img src="assets/twitter_insights.png.pngforecast.png" alt="Forecast Output" width="500"/>
 </p>
 
 ## Installation and Setup
